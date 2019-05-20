@@ -8,10 +8,10 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    <Provider>
+    // <Provider>
      <Router>
       <App />
-     </Router>
-    </Provider>,
+     </Router>,
+    // </Provider>,
  document.getElementById('root'));
 serviceWorker.unregister();
