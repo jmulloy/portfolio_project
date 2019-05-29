@@ -3,7 +3,12 @@ import React from 'react'
 const Welcome = () => {
     return (
       <div className='welcome-page'>
-        <h1>Welcome to my Portfolio!</h1>
+        <div>
+        <h1>Hi my name is Josh Mulloy!</h1>
+        </div>
+        <div>
+        <h2>Welcome to my online portfolio!</h2>
+        </div>
       </div>
     )
   }
