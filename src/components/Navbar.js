@@ -10,8 +10,7 @@ class Header extends React.Component {
               <Nav>
                 <NavItem eventKey={2}><Link to='/'>Home</Link></NavItem>
                 <NavItem eventKey={2}><Link to ='/resume'>Resume</Link></NavItem>
-
-                  <NavItem eventKey={2}><Link to='/about'>About</Link></NavItem>
+                <NavItem eventKey={2}><Link to='/about'>About</Link></NavItem>
                   
               </Nav>
             
