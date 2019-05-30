@@ -4,6 +4,7 @@ import { Header } from './components/Navbar.js'
 import Welcome from './components/Welcome.js'
 import About from './components/About.js'
 import { Switch, Route } from 'react-router-dom'
+import Resume from './components/Resume.js'
 
 
 class App extends Component {
